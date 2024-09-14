@@ -39,5 +39,6 @@ export function Typewriter() {
       </div>
       <Reviews/>
     </div>
+   
   );
 }

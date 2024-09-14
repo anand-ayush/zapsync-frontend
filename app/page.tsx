@@ -4,6 +4,7 @@ import { Branding } from "@/components/Branding";
 import { Cards } from "@/components/Cards";
 import { Hero } from "@/components/Hero";
 import { HeroVideo } from "@/components/HeroVideo";
+import { Infscroll } from "@/components/Infscroll";
 import { Reviews } from "@/components/Reviews";
 import { Typewriter } from "@/components/Typewriter";
 
@@ -22,6 +23,9 @@ export default function Home() {
       <Cards/>
       <Typewriter/>
       {/* <Reviews/> */}
+      <Infscroll/>
+     
+
     </main>
   );
 }

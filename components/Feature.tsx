@@ -1,5 +1,3 @@
-
-
 export const Feature = ({title, subtitle}: {
     title: string,
     subtitle: string

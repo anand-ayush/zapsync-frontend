@@ -17,7 +17,7 @@ const testimonials = [
   {
     quote:
       "Every time I create a new @ZapSync zap it makes me happy 😁😁😁 #rockthebooksonline.",
-    name: "Ayush Anand",
+    name: "Ambrish",
     title: "😍😍",
   },
   {
