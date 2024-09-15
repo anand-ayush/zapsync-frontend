@@ -14,8 +14,8 @@ export function Infscroll() {
           confidence.
         </div>
       </div>
-      {/*  Curved */}
-      <div className="flex gap-4 justify-center">
+      {/*  Small Values */}
+      <div className="flex gap-4 justify-center pt-8">
         <div className="bg-gray-100 rounded-full px-6 py-4 shadow-md flex items-center">
           <span className="font-semibold text-black mr-2">
             SOC II / SOC III
